@@ -1,0 +1,13 @@
+.gitignore
+DetailDaemonIcon.jpg
+LICENSE
+README.md
+__init__.py
+detail_daemon_node.py
+example_workflows/Comparing Detailers.json
+example_workflows/Flux img2img-DetailDaemon.json
+example_workflows/Flux inpainting-Detail Daemon.json
+example_workflows/Flux upscale-Detail Daemon.json
+example_workflows/SDXL txt2img-DetailDaemon.json
+pyproject.toml
+requirements.txt

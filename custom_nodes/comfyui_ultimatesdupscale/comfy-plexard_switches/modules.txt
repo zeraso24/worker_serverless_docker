@@ -1,0 +1,40 @@
+**Poros (Pores):**
+- **Bajo**: "smooth skin texture, minimal visible pores"
+- **Medio**: "natural skin texture, slightly visible pores"
+- **Alto**: "detailed skin texture, prominent visible pores"
+
+**Vello (Facial Hair):**
+- **Bajo**: "clean-shaven, smooth skin"
+- **Medio**: "light facial hair, subtle stubble"
+- **Alto**: "visible facial hair, natural hair texture"
+
+**Pecas (Freckles):**
+- **Bajo**: "clear complexion, minimal freckles"
+- **Medio**: "natural freckles, scattered across face"
+- **Alto**: "prominent freckles, abundant across face"
+
+**Arrugas (Wrinkles):**
+- **Bajo**: "youthful skin, fine lines"
+- **Medio**: "mature skin, moderate wrinkles"
+- **Alto**: "aged skin, deep wrinkles and lines"
+
+**Tono (Skin Tone):**
+- **Bajo**: "even skin tone, uniform complexion"
+- **Medio**: "natural skin tone, slight variations"
+- **Alto**: "diverse skin tone, natural variations"
+
+
+**Manchas (Blemishes):**
+- **Bajo**: "clear skin, minimal imperfections"
+- **Medio**: "natural skin, some blemishes"
+- **Alto**: "realistic skin, visible imperfections"
+
+**Enrojecimiento (Redness):**
+- **Bajo**: "neutral skin tone, no redness"
+- **Medio**: "natural skin tone, slight redness"
+- **Alto**: "flushed skin, visible redness"
+
+**Aspereza (Roughness):**
+- **Bajo**: "soft skin texture, smooth feel"
+- **Medio**: "natural skin texture, moderate roughness"
+- **Alto**: "rough skin texture, weathered appearance"

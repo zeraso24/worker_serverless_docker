@@ -1,0 +1,11 @@
+.github/workflows/publish.yml
+.gitignore
+Demo.mp4
+LICENSE
+README.md
+__init__.py
+example.png
+nodes.py
+pyproject.toml
+qwen edit custom.json
+result.png
