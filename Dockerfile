@@ -13,4 +13,4 @@ RUN comfy model download --url https://huggingface.co/lllyasviel/ic-light/resolv
 
 # Copy local static input files into the ComfyUI input directory (delete if not needed)
 # Assumes you have an 'input' folder next to your Dockerfile
-COPY input/ /comfyui/input/
+#COPY input/ /comfyui/input/
